@@ -38,7 +38,7 @@ OEP database/<br>
 
 ## 🏗️ Project Structure
 
-project/
+project/<br>
 ├── main.ipynb # Main code: Data preprocessing, training & evaluation<br>
 └── README.md # Documentation<br>
 
@@ -96,7 +96,7 @@ pip install scikit-learn matplotlib seaborn scikit-plot
 
 GPU Recommended (CPU works but slower)
 
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 
 The following are displayed:
 
@@ -114,7 +114,7 @@ ROC Curve
 
 Performance depends on subject split & number of frames extracted.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Temporal models (LSTM / GRU / 3D CNN / Transformers)
 
@@ -124,16 +124,17 @@ Stronger backbones (ResNet, EfficientNet)
 
 Imbalance handling strategies (weighted loss / oversampling)
 
-📌 Disclaimer
+## 📌 Disclaimer
 
 This project is made only for academic and research purposes
 and should not be used in real-world proctoring without proper validation.
 
-📚 Credits
+## 📚 Credits
 
 Dataset: Online Exam Proctoring (OEP) Dataset
 Developed by: Anas Multani
 B.Tech – Computer Science & Engineering
 Nirma University
 Roll No: 23BCE188
+
 
