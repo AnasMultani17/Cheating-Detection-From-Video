@@ -12,7 +12,7 @@ A **2D Convolutional Neural Network (CNN)** is trained on extracted grayscale fr
 
 ## 📂 Dataset Overview
 
-Dataset Used: **Online Exam Proctoring (OEP) Dataset** (from Kaggle) 
+Dataset Used: **Online Exam Proctoring (OEP) Dataset** (from Kaggle) <br>
 Link: https://www.kaggle.com/datasets/raajanwankhade/oep-dataset
 
 Each subject folder contains:
@@ -22,14 +22,14 @@ Each subject folder contains:
 
 Expected structure:
 
-OEP database/
-├── subject1/
-│ ├── subject1_1.avi
-│ └── gt.txt
-├── subject2/
-│ ├── subject2_1.avi
-│ └── gt.txt
-└── …
+OEP database/<br>
+├── subject1/<br>
+│ ├── subject1_1.avi<br>
+│ └── gt.txt<br>
+├── subject2/<br>
+│ ├── subject2_1.avi<br>
+│ └── gt.txt<br>
+└── …<br>
 
 > Ensure the dataset folder name matches this in the code:  
 > `data_path = "OEP database"`
@@ -39,8 +39,8 @@ OEP database/
 ## 🏗️ Project Structure
 
 project/
-├── main.ipynb # Main code: Data preprocessing, training & evaluation
-└── README.md # Documentation
+├── main.ipynb # Main code: Data preprocessing, training & evaluation<br>
+└── README.md # Documentation<br>
 
 ---
 
@@ -72,9 +72,9 @@ Lightweight for quick experiments & educational use.
 
 1️⃣ Place dataset next to notebook:
 
-project/
-├─ main.ipynb
-└─ OEP database/
+project/<br>
+├─ main.ipynb<br>
+└─ OEP database/<br>
 
 
 2️⃣ Open & **Run All Cells** in `main.ipynb`
@@ -89,7 +89,6 @@ project/
 
 Install via notebook or manually:
 
-```bash
 pip install torch torchvision torchaudio
 pip install opencv-python numpy pandas scipy
 pip install scikit-learn matplotlib seaborn scikit-plot
@@ -137,3 +136,4 @@ Developed by: Anas Multani
 B.Tech – Computer Science & Engineering
 Nirma University
 Roll No: 23BCE188
+
