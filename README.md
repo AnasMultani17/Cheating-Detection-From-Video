@@ -87,11 +87,11 @@ project/<br>
 
 ## 🔧 Installation / Requirements
 
-Install via notebook or manually:
+Install via notebook or manually:<br>
 
-pip install torch torchvision torchaudio
-pip install opencv-python numpy pandas scipy
-pip install scikit-learn matplotlib seaborn scikit-plot
+pip install torch torchvision torchaudio<br>
+pip install opencv-python numpy pandas scipy<br>
+pip install scikit-learn matplotlib seaborn scikit-plot<br>
 
 
 GPU Recommended (CPU works but slower)
@@ -131,10 +131,11 @@ and should not be used in real-world proctoring without proper validation.
 
 ## 📚 Credits
 
-Dataset: Online Exam Proctoring (OEP) Dataset
-Developed by: Anas Multani
-B.Tech – Computer Science & Engineering
-Nirma University
-Roll No: 23BCE188
+Dataset: Online Exam Proctoring (OEP) Dataset <br>
+Developed by: Anas Multani <br>
+B.Tech – Computer Science & Engineering <br>
+Nirma University <br>
+Roll No: 23BCE188<br>
+
 
 
